@@ -25,13 +25,14 @@ header{
 }
 h2{
     margin-top: 75px;
-
+    color: white;
 }
 b{
     color: black;
 }
 h3{
     margin-top: 75px;
+    color: white;
 }
 .navBar{
     float: right;
