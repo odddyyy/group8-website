@@ -2,7 +2,7 @@ body{
     background-image: url("img/background.jpg");
     color: white;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: monospace;
     font-size: 20px;
     background-attachment: fixed;
     background-position: center;
